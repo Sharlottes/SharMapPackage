@@ -1,7 +1,7 @@
 # What is SharMapPackage?
-you can download these maps, and import in mindustry. that's all!
+you can download these maps, and import in mindustry. that's all!   
 this package includes attack, survival, pvp maps, but not td, overed, old maps.   
-these maps are not fully completed maps, it means it can be updated always. also you can see the history on Commits.
+these maps are not fully completed maps, it means it's possible it's updated anytime. also you can see the history on Commits.
 
 ## What is td, overed map?
 TD map can work on server which has tower-defense server .jar file.   

@@ -1,4 +1,9 @@
 # SharMapPackage
+
+[![Discord](https://img.shields.io/discord/704355237246402721.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/CuAJKBgVCR)
+[![GitHub all releases](https://img.shields.io/github/downloads/anuken/mindustry/total?label=Made%20on%20Mindustry&style=flat-square)](https://github.com/Anuken/Mindustry/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/sharlotte-mobile/sharmappackage?label=Please%20star%20me%21&style=social)](https://github.com/sharlotte-mobile/SharMapPackage/stargazers)
+
 includes attack, survival, pvp maps.   
 you can download these maps, and import in mindustry.
 maps aren't fully completed maps, which means it's updatable anytime.
